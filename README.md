@@ -5,3 +5,7 @@ Data Structures &amp; Algorithms Practice Problems
 
 This repository is mostly for practicing DSA. I will be using Python, JavaScript, C#, C++, and more to complete these DSA problems.
 
+## Planned
+
+- Start developing in C++ and Python.
+
